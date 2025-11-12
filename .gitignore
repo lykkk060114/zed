@@ -1,0 +1,5 @@
+build/
+**/build/
+ZED_SDK_*.run
+
+

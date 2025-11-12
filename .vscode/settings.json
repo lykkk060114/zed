@@ -1,0 +1,13 @@
+{
+    "ros.distro": "noetic",
+    "files.associations": {
+        "array": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "utility": "cpp",
+        "cmath": "cpp"
+    },
+    "cmake.sourceDirectory": "/home/lyk/zed/ZED-master"
+}
